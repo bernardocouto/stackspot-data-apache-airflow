@@ -1,0 +1,10 @@
+about: docs/about.md
+description: StackSpot Data Apache Airflow
+display-name: Apache Airflow
+category: Analytics
+compatibility:
+  - Python
+name: stackspot-data-apache-airflow
+technologies:
+  - Apache Airflow
+  - Python
