@@ -5,5 +5,6 @@ category: Analytics
 compatibility:
   - Python
 name: stackspot-data-apache-airflow
+picture: stack.png
 technologies:
   - Python
